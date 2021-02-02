@@ -1,0 +1,31 @@
+[data-primead="HomeTopMrec"] {
+    float: right;
+    width: 300px;
+    padding: 7px;
+    border-left: 1px solid #f2f2f2;
+    background: #fbfbf1;
+    max-height: 250px;
+    position: relative;
+    z-index: 88;
+    margin-bottom: 10px
+}
+
+[data-primead="Home320X100"] .primeHookBanner {
+    clear: both;
+    border: 1px solid #eee;
+    margin-top: 2px
+}
+
+[data-primead="articleshowTopMrec"] .primeHookBanner {
+    padding: 7px;
+    border-left: 1px solid #f2f2f2;
+    background: #fbfbf1;
+    margin-bottom: 20px
+}
+
+[data-primead="articleshow665X100"] .primeHookBanner {
+    clear: both;
+    border: 1px solid #eee;
+    margin: 5px 0
+}
+
